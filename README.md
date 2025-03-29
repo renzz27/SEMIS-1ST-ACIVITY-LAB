@@ -1,4 +1,0 @@
-link: https://youtube.com/shorts/1BxGqKNAR-U?si=ym_gOA8dmOoT1y3K
- 
- I transform the previous python Dictionary ito C++ code laguage. I just compare the function of the python at find the same function in C++ to 
-   make the Dictionary in C++ code
